@@ -1,5 +1,5 @@
-# {{project.name}}
-> {{project.description}}
+# Game?
+> Some kind of video game.
 
 ## usage
 To get started, fork this repository and enter the following commands.
