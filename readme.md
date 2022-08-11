@@ -1,8 +1,11 @@
 # Game?
+
 > Some kind of video game.
 
 ## usage
+
 To get started, fork this repository and enter the following commands.
+
 ```sh
 > scaffy     # replace template tags
 > pkg-bump   # update package.json dep versions
@@ -11,6 +14,7 @@ To get started, fork this repository and enter the following commands.
 ```
 
 ## deps
+
 - task runner: `make`
 - JS: `esbuild`
 - HTML: `html-minifier`
